@@ -8,7 +8,7 @@
 		"start" : "node NodeTest.js"
 	},
 	"engines" : {
-		"node" : "6.10.3"
+		"node" : "6.10.0"
 	},
 	"dependencies" : {
 	}
